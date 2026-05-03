@@ -9,7 +9,7 @@ Traditional file search relies heavily on exact keyword matching, file names, or
 
 Even worse, standard search completely ignores your images and scanned documents. A screenshot of a receipt, a photo of a whiteboard, or a scanned Aadhaar card are invisible to conventional tools.
 
-## 💡 Value Add / Unique Selling Proposition (USP)
+## 💡 Value Add
 **Understand the *meaning* of your files — documents, code, images, and scanned pages — directly from PowerToys Run.**
 
 - **Semantic Search:** Find files by concept, not just keywords. Query `how to fix memory leak in c#` and get relevant source files back.
