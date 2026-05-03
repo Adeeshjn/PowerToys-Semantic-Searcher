@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="AnyCPU" />
+  </Configurations>
+  <Project Path="Community.PowerToys.Run.Plugin.SemanticSearcher\Community.PowerToys.Run.Plugin.SemanticSearcher.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="Community.PowerToys.Run.Plugin.SemanticSearcher.UnitTests\Community.PowerToys.Run.Plugin.SemanticSearcher.UnitTests.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="IndexerTool\IndexerTool.csproj">
+    <Platform Solution="*|AnyCPU" Project="AnyCPU" />
+  </Project>
+</Solution>

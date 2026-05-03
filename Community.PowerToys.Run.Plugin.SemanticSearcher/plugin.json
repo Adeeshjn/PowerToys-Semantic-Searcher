@@ -1,0 +1,14 @@
+{
+  "ID": "5A8D2A6B39C149F48B27D51996E2E109",
+  "ActionKeyword": "sem",
+  "IsGlobal": false,
+  "Name": "Semantic Searcher",
+  "Author": "Adeesh Jain",
+  "Version": "0.96.1",
+  "Language": "csharp",
+  "Website": "https://github.com/Adeesh Jain/Community.PowerToys.Run.Plugin.SemanticSearcher",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.SemanticSearcher.dll",
+  "IcoPathDark": "Images\\logo.svg",
+  "IcoPathLight": "Images\\logo.svg",
+  "DynamicLoading": false
+}
